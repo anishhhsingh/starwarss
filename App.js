@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from 'react';
-import './App.css';
-import Navbar from './components/Navbar.js';
+import 'https://github.com/anishhhsingh/starwarss/edit/main/App.css';
+import Navbar from 'https://github.com/anishhhsingh/starwarss/edit/main/components/Navbar.js';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Container, Dimmer, Loader } from 'semantic-ui-react';
-import Home from './components/Home.js';
-import Explore from './components/Explore.js';
-import Planets from './components/Planets.js';
+import Home from 'https://github.com/anishhhsingh/starwarss/edit/main/components/Home.js';
+import Explore from 'https://github.com/anishhhsingh/starwarss/edit/main/components/Explore.js';
+import Planets from 'https://github.com/anishhhsingh/starwarss/edit/main/components/Planets.js';
 
 function App() {
   const [people, setPeople] = useState([]);
