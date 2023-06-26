@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Card, Grid, Button, Input } from 'semantic-ui-react';
-import './Explore.css';
+import 'https://github.com/anishhhsingh/starwarss/edit/main/Explore.css';
 
 export default function People({ data }) {
   const [currentPage, setCurrentPage] = useState(1);
