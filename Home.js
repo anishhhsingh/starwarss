@@ -1,5 +1,5 @@
 import React from 'react'
-import './Home.css';
+import 'https://github.com/anishhhsingh/starwarss/edit/main/Home.css';
 
 export default function Home() {
   return (
