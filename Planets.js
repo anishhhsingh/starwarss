@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Card, Grid, Button, Input } from 'semantic-ui-react';
-import './Planet.css';
+import 'https://github.com/anishhhsingh/starwarss/edit/main/Planet.css';
 
 export default function Planets({ data }) {
   const [currentPage, setCurrentPage] = useState(1);
